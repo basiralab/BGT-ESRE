@@ -1,0 +1,10 @@
+# Optional constraints for the validated Python 3.10 environment and formatter.
+numpy==1.26.4
+scipy==1.14.1
+networkx==3.4.2
+scikit-learn==1.5.2
+torch==2.6.0
+torch-geometric==2.6.1
+PyYAML==6.0.2
+matplotlib==3.9.2
+ruff==0.15.13

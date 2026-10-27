@@ -1,0 +1,4 @@
+include configs/train.yaml
+include requirements-tested.txt
+recursive-include docs *.md
+recursive-include tests test_*.py
